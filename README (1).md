@@ -197,12 +197,5 @@ bypassing-ransomware-simulation/
 
 ---
 
-## 📸 Add Screenshots
-
-Place PNG screenshots in the `screenshots/` folder to demonstrate each major step. These will enhance your GitHub portfolio.
 
 ---
-
-## 👤 Author
-
-Created as part of a hands-on cybersecurity simulation for my GitHub portfolio. Inspired by AIG's Virtual Experience Program and TryHackMe projects.
