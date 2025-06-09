@@ -86,7 +86,7 @@ python3 ransomware_sim.py
 
 🔍 Post-execution, try opening the `.txt` files — they should display unreadable, garbled text.
 
-📸 ![Cat File 1](decrypted-file.png)
+📸 ![Cat File 1](garbled.png)
 
 ---
 
