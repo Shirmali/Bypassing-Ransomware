@@ -102,7 +102,6 @@ strings ransomware_sim.py
 
 This will output all readable strings in the script, allowing forensic teams to identify functions like `Fernet.generate_key()` or the presence of keywords like `encrypt`.
 
-📸 _Screenshot Tip: Highlight parts of the output showing the encryption commands._
 
 5. **Check the Key File**
 
