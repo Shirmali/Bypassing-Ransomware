@@ -1,5 +1,4 @@
-# 🛡️ Bypassing Ransomware Simulation (Educational Project)
-
+# 🛡️ Bypassing Ransomware Simulation 
 This cybersecurity project simulates a basic **ransomware attack** and how to respond to it. It's designed as part of a hands-on learning experience to better understand how encryption-based ransomware operates, how it affects file systems, and how forensic response can be carried out if a key is recovered.
 
 > ⚠️ **Disclaimer**: This simulation is for **educational** purposes only. Do **NOT** deploy ransomware techniques in any unauthorized environment.
