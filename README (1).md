@@ -121,6 +121,9 @@ This file represents what an attacker might use to demand a ransom. If recovered
 
 Run the `decryptor.py`:
 
+![Decryptor](dec.png)
+
+
 ```bash
 python3 decryptor.py
 ```
