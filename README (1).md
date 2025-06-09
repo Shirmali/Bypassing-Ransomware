@@ -131,7 +131,7 @@ python3 decryptor.py
 - Loads the Fernet key from `keyfile.key`.
 - Decrypts each `.txt` file back to its original content.
 
-📸 _Screenshot Tip: Show the content of the `.txt` files before and after decryption._
+📸 ![Decrypted file](decrypted-file.png)
 
 ---
 
