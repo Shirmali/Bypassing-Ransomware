@@ -86,7 +86,7 @@ python3 ransomware_sim.py
 
 🔍 Post-execution, try opening the `.txt` files — they should display unreadable, garbled text.
 
-📸 _Screenshot Tip: Show the encrypted file content in terminal or with `cat file1.txt`._
+📸 ![Cat File 1](decrypted-file.png)
 
 ---
 
