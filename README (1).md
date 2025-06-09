@@ -60,7 +60,7 @@ echo "Sensitive data here" > file2.txt
 
 These `.txt` files will serve as the "victims" of the ransomware.
 
-📸 ![.txt files](Bypassing-Ransomware/screenshot-txt-files.png)
+📸 ![.txt files](screenshot-txt-files.png)
 
 
 ---
