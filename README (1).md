@@ -71,6 +71,8 @@ These `.txt` files will serve as the "victims" of the ransomware.
 
 Place the `ransomware_sim.py` in the working folder and execute it:
 
+📸 ![Ransomware Script](rans2025.png)
+
 ```bash
 python3 ransomware_sim.py
 ```
