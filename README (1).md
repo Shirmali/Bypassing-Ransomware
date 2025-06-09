@@ -60,7 +60,8 @@ echo "Sensitive data here" > file2.txt
 
 These `.txt` files will serve as the "victims" of the ransomware.
 
-📸 _Screenshot Tip: Take a snapshot of these files using `gnome-screenshot`._
+📸 ![`.txt` files](Screenshot 2025-05-22 230320 (2).png)
+
 
 ---
 
